@@ -1,0 +1,6 @@
+function takeANumber(number,name){
+    
+
+
+
+  }
